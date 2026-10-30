@@ -1,5 +1,0 @@
-// from server: 45% by colin
-// roc-lang: cpp
-// roc-cl: 30729
-// roc-flags: /O2 /MD /GS /EHsc
-// roc-lib: xtp-15.2.1-shared-mfc Source/Common/XTPPropExchange.cpp
