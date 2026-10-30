@@ -1,5 +1,0 @@
-// from server: 37% by TrollStein
-// roc-lang: cpp
-// roc-cl: 21022
-// roc-flags: /O2 /GS- /MD
-// roc-lib: scintilla-mfc-1.20 ScintillaCtrl.cpp

@@ -1,5 +1,0 @@
-// from server: 78% by TrollStein
-// roc-lang: cpp
-// roc-cl: 30729
-// roc-flags: /O2 /GS- /MD
-// roc-lib: xtp-15.2.1 Source/Calendar/XTPCalendarController.cpp

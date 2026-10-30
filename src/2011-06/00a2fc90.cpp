@@ -1,4 +1,0 @@
-// from server: 100% by colin
-// roc-flags: /O2 /Ob2 /Oy /GF- /GS- /EHsc /MD
-typedef void (__thiscall *Ctor)(void*,const char*); extern Ctor ctor; extern "C" void final(void*);
-void func(){ctor((void*)0xd1f824,(const char*)0xaf5ff4);final((void*)0xa3ff40);}
