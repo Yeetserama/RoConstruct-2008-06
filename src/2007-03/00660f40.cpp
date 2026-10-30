@@ -1,5 +1,0 @@
-// from server: 31% by TrollStein
-// roc-lang: cpp
-// roc-cl: 30729
-// roc-flags: /O1 /GS- /MD
-// roc-lib: xtp-15.2.1 Source/Common/XTPPropExchange.cpp
