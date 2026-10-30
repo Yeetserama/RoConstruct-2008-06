@@ -1,7 +1,0 @@
-// from server: 100% by colin
-// from server: 91% by coldek
-// from server: 100% by tester
-// roc-lang: cpp
-// roc-cl: 30729
-// roc-flags: /O2 /MD /GS /EHsc
-// roc-lib: xtp-15.2.1-shared-mfc Source/Common/XTPImageManager.cpp
