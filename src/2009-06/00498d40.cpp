@@ -1,5 +1,0 @@
-// from server: 65% by colin
-// roc-cl: 30729
-// roc-lang: cpp
-// roc-flags: /O2 /Ob2 /Oi /Ot /Oy /GF /GS- /EHsc /MD
-// roc-lib: ogre-1.4.9-dll OgreResourceGroupManager.cpp
